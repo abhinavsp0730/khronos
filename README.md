@@ -10,7 +10,7 @@ Khronos is a Python library that benchmarks the duration of Django tests. It hel
 4) **CSV Export:** Whole tests benchmark can be saved in a CSV.  
 
 # How to configure: 
-1) `python -m build` and install in your virtual env. 
+1) `pip install django-khronos` or build it locally `python -m build` and install in your virtual env. 
 2) Add `TEST_RUNNER = "khronos.custom_test_runner.KhronosTestRunner"` in your `settings.py`  
 3) If you want to increase the number of slowest tests displayed on terminal then set ` KHRONOS_REPORT_MAX_ROW=` in your `settings.py`.  
 3) If you want to add Google Sheets integration, add:
