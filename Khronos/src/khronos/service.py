@@ -74,7 +74,7 @@ class KhronosService:
 
     def create_khronos_gsheet_report(self):
         try:
-            spreadsheet_id = settings.KHRONOS_SPREEDSHEET_REPORT_GSHEET_ID
+            spreadsheet_id = settings.KHRONOS_SPREADSHEET_REPORT_GSHEET_ID
             credentials_file_path = settings.KHRONOS_GSHEET_CREDS_FILE_PATH
             if os.path.isfile(credentials_file_path):
                 gsheet_service = gspread.service_account(filename=credentials_file_path)
