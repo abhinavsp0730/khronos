@@ -14,7 +14,7 @@ Khronos is a Python library that benchmarks the duration of Django tests. It hel
 2) Add `TEST_RUNNER = "khronos.custom_test_runner.KhronosTestRunner"` in your `settings.py`  
 3) If you want to increase the number of slowest tests displayed on terminal then set ` KHRONOS_REPORT_MAX_ROW=` in your `settings.py`.  
 3) If you want to add Google Sheets integration, add:
-`KHRONOS_SPREEDSHEET_REPORT_GSHEET_ID = "your-google-sheet-id"` and your `KHRONOS_GSHEET_CREDS_FILE_PATH = "your-gsheet-cred-path" in your `settings.py` .   
+`KHRONOS_SPRAEDSHEET_REPORT_GSHEET_ID = "your-google-sheet-id"` and your `KHRONOS_GSHEET_CREDS_FILE_PATH = "your-gsheet-cred-path" in your `settings.py` .   
 4) For saving the khronos benchmark report.   
 
 **Tested on Django `3.2.14`. Open an issue if it's not supported in your's django version**
