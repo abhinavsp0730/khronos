@@ -1,4 +1,7 @@
 import setuptools
+import os
+
+os.chdir("../")
 
 setuptools.setup(
     name="django-khronos",
