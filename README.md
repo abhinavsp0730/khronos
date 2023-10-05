@@ -18,7 +18,8 @@ Khronos is a Python library that benchmarks the duration of Django tests. It hel
 4) For saving the khronos benchmark report.   
 
 **Tested on Django `3.2.14`. Open an issue if it's not supported in your's django version**  
-
+## Contributors ✨
+Thanks go to these wonderful people
 <!-- readme: contributors -start -->
 <table>
 <tr>
