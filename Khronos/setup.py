@@ -1,13 +1,13 @@
 import setuptools
-import os
 
-os.chdir("../")
+with open(r'..\README.md', "r") as file:
+  long_desc = file.read()
 
 setuptools.setup(
     name="django-khronos",
     version="0.1.1",
     description="Khronos is a Python library that benchmarks the duration of Django tests. It helps identify slow-running tests in your test suite, allowing you to optimize their performance.",
-    long_description=open("README.md").read(),
+    long_description=long_desc,
     long_description_content_type="text/markdown",
     author="Abhinav Prakash",
     author_email="abhinavsp0730@gmail.com",
