@@ -20,4 +20,14 @@ Khronos is a Python library that benchmarks the duration of Django tests. It hel
 **Tested on Django `3.2.14`. Open an issue if it's not supported in your's django version**  
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/abhinavsp0730">
+            <img src="https://avatars.githubusercontent.com/u/43638955?v=4" width="100;" alt="abhinavsp0730"/>
+            <br />
+            <sub><b>Abhinav Prakash</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
