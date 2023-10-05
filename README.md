@@ -17,4 +17,7 @@ Khronos is a Python library that benchmarks the duration of Django tests. It hel
 `KHRONOS_SPRAEDSHEET_REPORT_GSHEET_ID = "your-google-sheet-id"` and your `KHRONOS_GSHEET_CREDS_FILE_PATH = "your-gsheet-cred-path" in your `settings.py` .   
 4) For saving the khronos benchmark report.   
 
-**Tested on Django `3.2.14`. Open an issue if it's not supported in your's django version**
+**Tested on Django `3.2.14`. Open an issue if it's not supported in your's django version**  
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
