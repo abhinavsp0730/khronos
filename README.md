@@ -29,6 +29,13 @@ Thanks go to these wonderful people
             <br />
             <sub><b>Abhinav Prakash</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Paul-Annay">
+            <img src="https://avatars.githubusercontent.com/u/84911232?v=4" width="100;" alt="Paul-Annay"/>
+            <br />
+            <sub><b>Annay Paul</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
