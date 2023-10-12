@@ -1,5 +1,5 @@
 # Khronos [![Downloads](https://static.pepy.tech/badge/django-khronos)](https://pepy.tech/project/django-khronos) 
-Are your org hotfixes truly considered "hotfixes" if they take longer than 15 minutes to go live because of slow tests workflows running on GitHub Actions? To speed up this imagine benchmarking test   durations to identify the slow tests when the total number of tests > 500, it seems impractical to run each test individually and manually record their duration   times.   
+Are your organizations's hotfixes *truly* considered "hotfixes" if they take longer than 15 minutes to go live, because of slow test workflows running on GitHub Actions? To speed up this process, imagine benchmarking test   durations to identify the slow tests, when the total number of tests > 500, it seems impractical to run each test individually and manually record their duration times.   
 <img src="https://i.ibb.co/W0LS1cQ/419d86a9-d1ca-4e80-9b62-fc43855c1e2e.jpg" width="300">  
 Khronos is a Python library that benchmarks the duration of Django tests. It helps identify slow-running tests in your test suite, allowing you to optimize their performance.
 
