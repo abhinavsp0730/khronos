@@ -3,10 +3,10 @@ Are your org hotfixes truly considered "hotfixes" if they take longer than 15 mi
 <img src="https://i.ibb.co/W0LS1cQ/419d86a9-d1ca-4e80-9b62-fc43855c1e2e.jpg" width="300">  
 Khronos is a Python library that benchmarks the duration of Django tests. It helps identify slow-running tests in your test suite, allowing you to optimize their performance.
 
- **Feautres:**  
- 1) **Benchmark Report:** Create benchmark report in the terminal whenever you run your django tests and shows top 10(this no. can be configured) slowest tests.   
+**Feautres:**  
+1) **Benchmark Report:** Create benchmark report in the terminal whenever you run your django tests and shows top 10(this no. can be configured) slowest tests.  
 2) **Parallel Test Execution:** Works with  `--parallel`  out of the box.  
- 3) **Google Sheets Integration:** Whole tests benchmark can be automatically  uploaded to Google Sheets.   
+3) **Google Sheets Integration:** Whole tests benchmark can be automatically  uploaded to Google Sheets.  
 4) **CSV Export:** Whole tests benchmark can be saved in a CSV.  
 
 # How to configure: 
@@ -28,13 +28,6 @@ Thanks go to these wonderful people
             <img src="https://avatars.githubusercontent.com/u/43638955?v=4" width="100;" alt="abhinavsp0730"/>
             <br />
             <sub><b>Abhinav Prakash</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Vivy24">
-            <img src="https://avatars.githubusercontent.com/u/62721809?v=4" width="100;" alt="Vivy24"/>
-            <br />
-            <sub><b>Vivy Vuong</b></sub>
         </a>
     </td>
     <td align="center">

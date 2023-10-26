@@ -1,6 +1,6 @@
 import setuptools
 
-with open(r'..\README.md', "r") as file:
+with open(r'README.md', "r") as file:
   long_desc = file.read()
 
 setuptools.setup(
