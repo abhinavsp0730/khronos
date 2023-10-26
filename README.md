@@ -31,6 +31,13 @@ Thanks go to these wonderful people
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Vivy24">
+            <img src="https://avatars.githubusercontent.com/u/62721809?v=4" width="100;" alt="Vivy24"/>
+            <br />
+            <sub><b>Vivy Vuong</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Paul-Annay">
             <img src="https://avatars.githubusercontent.com/u/84911232?v=4" width="100;" alt="Paul-Annay"/>
             <br />
